@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ScheduleApp</string>
+    <string name="search_person">Buscar Persona</string>
+    <string name="no_reg_text">No hay registros, presione + para agregar.</string>
+    <string name="todo">TODO</string>
+    <string name="telephone_form">Teléfono</string>
+    <string name="save">Guardar</string>
+    <string name="name">Nombre</string>
+    <string name="surname">Apellido</string>
+    <string name="e_mail">E-mail</string>
+    <string name="error_save">Hubo un error. Vuelva a intentarlo</string>
+    <string name="delete">Borrar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete_dialog_message">¿Desea borrar a la persona de la agenda?</string>
+    <string name="succes">Operación exitosa</string>
+    <string name="action_bar_update">Modificar</string>
+    <string name="action_bar_create">Generar Nuevo</string>
+    <string name="action_bar_schedule">Contactos</string>
+</resources>
